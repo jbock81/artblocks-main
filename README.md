@@ -1,1 +1,1 @@
-# artblocks-main
+# ArtBlocks
